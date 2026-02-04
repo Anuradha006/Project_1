@@ -1,1 +1,1 @@
-This is the test text for git hub 
+This is the test text for git hub.
